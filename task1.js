@@ -1,3 +1,5 @@
+// Task 01: Iterating with Async/Await: Write an async function iterateWithAsyncAwait that takes an array of values and logs each value with a delay of 1 second between logs
+
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
 // Async function to iterate through the array with a delay
